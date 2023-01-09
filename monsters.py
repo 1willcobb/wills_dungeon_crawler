@@ -1,3 +1,4 @@
+# Monsters -> work in progress
 monsters = {
 	'1_1': {'name': 'fat lizard',
 			'life': 10,
