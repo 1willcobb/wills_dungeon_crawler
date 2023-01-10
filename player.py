@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from rooms import Room
 
+# Dataclass attempt for setting up a new player
 @dataclass
 class Player():
     name: str
