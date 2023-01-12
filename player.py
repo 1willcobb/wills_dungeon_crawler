@@ -177,5 +177,5 @@ class Player():
                 pass
         return weapon_of_choice.upper()
 
-will = Player("will")
+will = Player("will", 32, "dragon")
 will.initialize_rooms()
