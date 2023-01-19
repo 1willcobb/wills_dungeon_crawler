@@ -12,5 +12,8 @@ monsters = {
 			'defence':0,
 			'alive': True
 			},
-  '1_3': {'name': 'big baby centar',}
+  '1_3': {'name': 'big baby centar',
+      'life': '5',
+      'attack': '2',
+      }
 }
