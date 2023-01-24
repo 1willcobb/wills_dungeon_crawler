@@ -18,5 +18,10 @@ monsters = {
       'defence': '1',
       'alive': True
 			},
-      
+  '1_4': {'name': 'big baby centar the momnster',
+      'life': '10',
+			'attack': '4',
+			'defence': '2',
+			'alive': True
+			},
 }
